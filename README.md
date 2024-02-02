@@ -2,4 +2,4 @@
 
 ## Bateria de programes
 
-- [Problema 1](bateria1.py)
+- [Problema 1](bateria11.py)
